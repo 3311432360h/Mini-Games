@@ -20,10 +20,12 @@
 <img width="1237" height="692" alt="屏幕截图 2025-12-11 172343" src="https://github.com/user-attachments/assets/ed9b21ea-12d9-4e47-9305-4e4362d627ff" />
 7.连连看
 <img width="999" height="605" alt="屏幕截图 2025-12-12 144639" src="https://github.com/user-attachments/assets/81bfc913-6902-453c-a377-11518d4166ed" />
+
 8.贪吃蛇
 
 <img width="382" height="701" alt="屏幕截图 2025-12-12 222123" src="https://github.com/user-attachments/assets/f51d3eb6-6d8b-44cf-822d-8b8520b1ac2d" />
 <img width="390" height="689" alt="屏幕截图 2025-12-12 222137" src="https://github.com/user-attachments/assets/4689bd3d-8cf0-4c70-ae9e-e601dd1c1151" />
+
 9.俄罗斯方块
 
 <img width="380" height="702" alt="屏幕截图 2025-12-12 215946" src="https://github.com/user-attachments/assets/90547887-ec58-43fa-be94-6d4efa52ed6e" />
